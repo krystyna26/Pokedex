@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 800px;
+    border: 1px solid;
+    margin: 0px;
+    display: inline-block;
+}
+#redbox{
+    display: inline-block;
+    margin: 0px;
+    width: 200px;
+    height: 400px;
+    background-color: red;
+    vertical-align: top;
+}
+.screen{
+    width: 180px;
+    height: 379px;
+    background-color: white;
+    margin: 10px
+}
